@@ -6,7 +6,7 @@ website:
   title: "DSCI 310: Historical Horse Population in Canada"
   navbar:
     left:
-      - href: index.qmd
+      - href: qmd_example.html
         text: Home
       - href: about.qmd
         text: About
